@@ -1,1 +1,2 @@
 # Bioinformatics-Tools-for-genome-analysis
+This is the final portfolio project submitted for my course at JHU. The handbook provides handy references to the various tools and databases used for genome analysis. It includes examples of prokaryotic and eukaryotic gene prediction tools, genome browsers, databases, protocols to perform NGS Analysis, ChIP-seq, and RNA-seq analysis. 
